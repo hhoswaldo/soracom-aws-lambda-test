@@ -1,0 +1,1 @@
+# soracom-aws-lambda-test
